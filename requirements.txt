@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+gunicorn
+slack-sdk
+requests
+SQLAlchemy
+psycopg2-binary
+pytz
+slack-bolt
+python-dotenv
+httpx
+notion-client
+pyngrok
+python-dotenv
+aiohttp
